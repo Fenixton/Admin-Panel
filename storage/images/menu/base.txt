@@ -1,0 +1,2 @@
+Images will be uploaded here.
+Remove this file after uploading the archive to the prodution site.
